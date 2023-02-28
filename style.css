@@ -1,0 +1,24 @@
+.btn{
+    background-color: #c11300;
+}
+
+body{
+    padding: 12rem;
+}
+
+
+.inputSection{
+    color: #c11300(0, 154, 193);
+    font-weight: bold;
+}
+
+.resultSection{
+    background-color: #c11300(0, 126, 151);
+    color: rgb(15, 125, 222);
+    
+}
+
+.convertBtn:hover{
+    background-color: #c11300(5, 99, 150);
+    /* color: black; */
+}
